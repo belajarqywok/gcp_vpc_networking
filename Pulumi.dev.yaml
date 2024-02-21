@@ -1,0 +1,3 @@
+config:
+  gcp:project: dicoding-gcloud-archi
+  gcp:zone: asia-southeast2

@@ -1,0 +1,1 @@
+import { Instance } from '@pulumi/gcp/compute/instance'
